@@ -54,6 +54,8 @@ public class P4 {
 		System.out.printf("State Tax: $%.2f\n", stateTax);
 		
 		keyboard.close();
+
+		System.out.println("This is a test.");
 	}
 
 }
