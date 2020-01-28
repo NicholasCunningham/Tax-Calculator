@@ -57,6 +57,7 @@ public class P4 {
 
 		System.out.println("This is a test.");
 		System.out.println("This is a line created in GitHub.");
+		System.out.println("This line was added in IDEA to solve the issue.");
 	}
 
 }
