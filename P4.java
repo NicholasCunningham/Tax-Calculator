@@ -56,6 +56,7 @@ public class P4 {
 		keyboard.close();
 
 		System.out.println("This is a test.");
+		System.out.println("This is a line created in GitHub.");
 	}
 
 }
